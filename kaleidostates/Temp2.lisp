@@ -1,0 +1,1 @@
+(<- a (make-kaleidostate))(<- b (make-kaleidostate))(<- c (make-kaleidostate))(matrix-multiplier a b c)
